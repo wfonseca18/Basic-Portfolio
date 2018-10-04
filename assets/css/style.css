@@ -1,5 +1,18 @@
 
-h1 {
+.name {
     background-color: #4aaaa5;
+}
+
+.title {
+    color: #4aaaa5;
+}
+
+#title, nav {
+    float: left;
+}
+
+.content {
+    overflow: auto;
+    clear: both;
 }
 
