@@ -13,6 +13,8 @@ header {
     background-color: #ffffff;
     border-color: #cccccc;
     font-family: 'Georgia', Times, Times New Roman, serif;
+    width: 960px;
+    margin-left: 33%;
 }
 
 .title {
@@ -29,9 +31,13 @@ header {
     border-color: #dddddd;
     overflow: auto;
     clear: both;
+    width: 960px;
+    margin-left: 33%;
 }
 
 footer {
     background-color: #666666;
     color: white;
+    position: sticky;
+    bottom: 0px;
 }
