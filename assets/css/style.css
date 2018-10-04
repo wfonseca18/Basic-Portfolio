@@ -14,7 +14,12 @@ header {
     border-color: #cccccc;
     font-family: 'Georgia', Times, Times New Roman, serif;
     width: 960px;
-    margin-left: 33%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+nav {
+    position: relative;
+    left: 100%;
 }
 
 .title {
@@ -32,7 +37,8 @@ header {
     overflow: auto;
     clear: both;
     width: 960px;
-    margin-left: 33%;
+    margin-left: 15%;
+    margin-right: 15%;
 }
 
 footer {
